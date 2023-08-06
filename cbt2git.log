@@ -1,0 +1,12 @@
+2023-08-06 05:38:26.346573 - Initialized conversion of CBT626
+2023-08-06 05:38:26.405596 - Received CBT.V505.FILE626.PDS from FILE626.XMI 
+2023-08-06 05:38:26.407979 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE626.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:38:26.408985 - Found $DOC.txt (text/plain) in CBT.V505.FILE626.PDS, moved to PDS/$DOC
+2023-08-06 05:38:26.413434 - Found $LOADLIB.xmi (application/xmit) in CBT.V505.FILE626.PDS
+2023-08-06 05:38:26.419304   - Received RECFM=U data, stored XMIT file as CBT626/$LOADLIB.xmi
+2023-08-06 05:38:26.420225 - Found @FILE626.txt (text/plain) in CBT.V505.FILE626.PDS, moved to PDS/@FILE626
+2023-08-06 05:38:26.421074 - Found ASMENQ.txt (text/plain) in CBT.V505.FILE626.PDS, moved to PDS/ASMENQ
+2023-08-06 05:38:26.422053 - Found CSA.rexx (text/plain) in CBT.V505.FILE626.PDS, moved to PDS/CSA
+2023-08-06 05:38:26.422991 - Found EN.rexx (text/plain) in CBT.V505.FILE626.PDS, moved to PDS/EN
+2023-08-06 05:38:26.423805 - Found JI.rexx (text/plain) in CBT.V505.FILE626.PDS, moved to PDS/JI
+2023-08-06 05:38:26.424582 - Found TSOENQ.txt (text/plain) in CBT.V505.FILE626.PDS, moved to PDS/TSOENQ
