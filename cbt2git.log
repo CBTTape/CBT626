@@ -1,12 +1,12 @@
-2025-04-15 04:01:51.301040 - Received CBT.V508.FILE626.PDS from FILE626.XMI 
-2025-04-15 04:01:51.302570 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/$$$#DATE
-2025-04-15 04:01:51.302956 - Found $DOC.txt (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/$DOC
-2025-04-15 04:01:51.303186 - Found $LOADLIB.xmi (application/xmit) in CBT.V508.FILE626.PDS, moved to PDS/$LOADLIB.xmi
-2025-04-15 04:01:51.308139 - Received SBGOLOB.TSOENQ.LOAD from $LOADLIB.xmi 
-2025-04-15 04:01:51.308632 - Found TSOENQ.bin (application/octet-stream) in SBGOLOB.TSOENQ.LOAD, moved to $LOADLIB/TSOENQ
-2025-04-15 04:01:51.308924 - Found @FILE626.txt (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/@FILE626
-2025-04-15 04:01:51.309100 - Found ASMENQ.txt (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/ASMENQ
-2025-04-15 04:01:51.309299 - Found CSA.rexx (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/CSA
-2025-04-15 04:01:51.309477 - Found EN.rexx (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/EN
-2025-04-15 04:01:51.309656 - Found JI.rexx (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/JI
-2025-04-15 04:01:51.309857 - Found TSOENQ.txt (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/TSOENQ
+2025-04-15 22:51:34.320860 - Received CBT.V508.FILE626.PDS from FILE626.XMI 
+2025-04-15 22:51:34.322254 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/$$$#DATE
+2025-04-15 22:51:34.322588 - Found $DOC.txt (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/$DOC
+2025-04-15 22:51:34.322769 - Found $LOADLIB.xmi (application/xmit) in CBT.V508.FILE626.PDS, moved to PDS/$LOADLIB.xmi
+2025-04-15 22:51:34.327762 - Received SBGOLOB.TSOENQ.LOAD from $LOADLIB.xmi 
+2025-04-15 22:51:34.328232 - Found TSOENQ.bin (application/octet-stream) in SBGOLOB.TSOENQ.LOAD, moved to $LOADLIB/TSOENQ
+2025-04-15 22:51:34.328412 - Found @FILE626.txt (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/@FILE626
+2025-04-15 22:51:34.328585 - Found ASMENQ.txt (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/ASMENQ
+2025-04-15 22:51:34.328769 - Found CSA.rexx (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/CSA
+2025-04-15 22:51:34.328935 - Found EN.rexx (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/EN
+2025-04-15 22:51:34.329131 - Found JI.rexx (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/JI
+2025-04-15 22:51:34.329330 - Found TSOENQ.txt (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/TSOENQ
